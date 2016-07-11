@@ -1,0 +1,31 @@
+html, body {
+  background: url(images/FrontEnd_space.jpg) no-repeat center center fixed;
+  background-color: #000;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+
+p {
+  color: #fff; }
+
+#page-container {
+  position: absolute;
+  top: 75%;
+  width: 100%;
+  padding: 15px;
+  background-color: #000; }
+
+#page-footer {
+  padding: 5px;
+  width: 100%;
+  text-align: center;
+  background-color: #000; }
+
+#page-footer h2, #page-footer h3 {
+  color: #fff; }
+
+.label-text {
+  color: #fff; }
+
+/*# sourceMappingURL=main.css.map */
