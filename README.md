@@ -1,5 +1,3 @@
-# Rational FT Project
-
 # Project Scenario & Description
 1.  The committee to press the Launch Button to assign the Astronaut randomly
 2.  Each Astronaut select Name and Email to login
